@@ -1,0 +1,16 @@
+{
+  "name": "bot-telegram-serbaguna",
+  "version": "2.0.0",
+  "description": "Bot Telegram serbaguna dengan Telegraf (AI, RPG, Game, Tools, Group, Download, Panel, Anime, Islamic, Rekap, JadiBot)",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3",
+    "sharp": "^0.33.4",
+    "node-fetch": "^2.7.0",
+    "qrcode": "^1.5.3",
+    "mathjs": "^13.0.0"
+  }
+}
